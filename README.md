@@ -1,15 +1,15 @@
 # python-all-keywords
 ![image](https://user-images.githubusercontent.com/55657605/163704425-52f54fbf-796f-4b75-978b-e37be4ebd8e0.png)
 
-|Keyword|Description|
-|---|---|
-|and|A logical operator|
-|as|To create an alias|
-|ssert|For debugging|
-|reak|To break out of a loop|
-|lass|To define a class|
-|ontinue|To continue to the next iteration of a loop|
-|def|To define a function|
+Keyword|Description
+---|---
+and|A logical operator
+as|To create an alias
+ssert|For debugging
+break|To break out of a loop
+class|To define a class
+ontinue|To continue to the next iteration of a loop
+def|To define a function
 del|To delete an object
 elif|Used in conditional statements, same as else if
 else|Used in conditional statements
