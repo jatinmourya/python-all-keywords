@@ -1,5 +1,6 @@
 # python-all-keywords
 Keyword| Description
+---|---
 and| A logical operator
 as| To create an alias
 assert| For debugging
