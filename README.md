@@ -16,3 +16,21 @@ False| Boolean value, result of comparison operations
 finally| Used with exceptions, a block of code that will be executed no matter if there is an exception or not
 for| To create a for loop
 from| To import specific parts of a module
+global| To declare a global variable
+if| To make a conditional statement
+import| To import a module
+in| To check if a value is present in a list, tuple, etc.
+is| To test if two variables are equal
+lambda| To create an anonymous function
+None| Represents a null value
+nonlocal| To declare a non-local variable
+not| A logical operator
+or| A logical operator
+pass| A null statement, a statement that will do nothing
+raise| To raise an exception
+return| To exit a function and return a value
+True| Boolean value, result of comparison operations
+try| To make a try...except statement
+while| To create a while loop
+with| Used to simplify exception handling
+yield| To end a function, returns a generator
